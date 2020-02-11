@@ -1,1 +1,3 @@
 # DjangoProjects
+
+Word Count Project
